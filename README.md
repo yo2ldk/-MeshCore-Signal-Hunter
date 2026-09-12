@@ -3,7 +3,8 @@
 
 
    => Please let a Star if you like it
-A single-file, browser-based signal monitor for [MeshCore](https://meshcore.co.uk/) companion radios. Plug in a MeshCore node over **USB** or pair it over **Bluetooth LE**, and get a live, walk-around-friendly view of everything its radio hears — signal strength, noise floor, SNR, and every packet on the channel — right in your browser. No app store, no installer, no build step.
+   
+   A single-file, browser-based signal monitor for [MeshCore](https://meshcore.co.uk/) companion radios. Plug in a MeshCore node over **USB** or pair it over **Bluetooth LE**, and get a live, walk-around-friendly view of everything its radio hears — signal strength, noise floor, SNR, and every packet on the channel — right in your browser. No app store, no installer, no build step.
 
 ![status](https://img.shields.io/badge/dependencies-zero-brightgreen) ![install](https://img.shields.io/badge/install-not%20required-blue) ![platform](https://img.shields.io/badge/runs%20in-your%20browser-orange)
 
