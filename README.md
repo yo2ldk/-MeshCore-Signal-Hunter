@@ -64,4 +64,7 @@ No configuration files, no setup wizard — the page adapts to whatever the conn
 
 ## License
 
+<img width="1070" height="2048" alt="RF Hunt" src="https://github.com/user-attachments/assets/05fbd1cf-b770-4bb9-8a8e-2c2dee504890" />
+
+
 Do whatever you'd like with it — it's yours to read, modify, and use.
